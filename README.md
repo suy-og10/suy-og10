@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Suyog Lokhande</h1>
 <h3 align="center">A passionate developer, learner & club leader</h3>
 
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
@@ -35,7 +35,7 @@
 - Guided juniors in project building and coding habits 🧠
 
 📫 Connect with me:
-- 📧 suyoglokhande123@gmail.com
+- 📧 suyoglokhande999@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/suyog10)
 
 ---
