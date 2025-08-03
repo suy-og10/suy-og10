@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Suyog Lokhande</h1>
-<h3 align="center">A passionate developer, learner & club leader from India 🇮🇳</h3>
+<h3 align="center">A passionate developer, learner & club leader</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -13,14 +13,17 @@
 - Teaching sessions under BYTEARQ club at KITCoEK
 
 👨‍💻 Technologies I use:
-- **Languages**: Java, Python, JavaScript
-- **Web Dev**: React, Node.js, Express, HTML/CSS
-- **Databases**: MongoDB, MySQL
-- **Tools**: Git, GitHub, VS Code, Postman
 
-🌱 Currently learning:
-- DevOps, AWS Tools for Analytics
-- UI/UX thinking, clean code practices
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,mongodb,mysql,flask" />
+</p>
+
+🛠️ Tools & Platforms:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,aws" />
+</p>
+
 
 👯 I like collaborating on:
 - Mini projects
@@ -32,18 +35,8 @@
 - Guided juniors in project building and coding habits 🧠
 
 📫 Connect with me:
-- 📧 suyoglokhande999@gmail.com
+- 📧 suyoglokhande123@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/suyog10)
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SuyogLokhande&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SuyogLokhande&theme=tokyonight" />
-</p>
 
 ---
 
